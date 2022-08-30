@@ -1,4 +1,6 @@
 ### Hi there 👋
+###🔭 I’m currently working on Something Else
+###🌱 I’m currently learning A lot of things
 
 <!--
 **Pithovirus/Pithovirus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
